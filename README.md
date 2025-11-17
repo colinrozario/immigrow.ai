@@ -1,4 +1,4 @@
-# immigro.ai
+# immigrow.ai
 
 > Your Personal AI Immigration Assistant
 
@@ -11,11 +11,6 @@ A modern web application that helps international students and immigrants analyz
 - **Personalized Dashboard** - View all your documents and upcoming deadlines in one place
 - **Secure Authentication** - Email/password and anonymous authentication powered by Convex Auth
 - **Real-time Updates** - Instant document processing status and analysis results
-- **Mobile-First Design** - Clean, responsive interface that works on all devices
-
-##  Quick Start
-
-### Prerequisites
 
 - Node.js 18 or higher
 - A Google Gemini API key ([Get one here](https://makersuite.google.com/app/apikey))
@@ -43,10 +38,6 @@ A modern web application that helps international students and immigrants analyz
 4. **Start the development server**
    ```bash
    npm run dev
-   ```
-
-   This will start both the frontend (Vite) and backend (Convex) servers. The app will automatically open at `http://localhost:5173`
-
 ## 📁 Project Structure
 
 ```
@@ -63,13 +54,7 @@ A modern web application that helps international students and immigrants analyz
 │   ├── Dashboard.tsx           # User dashboard
 │   ├── SignInForm.tsx          # Authentication form
 │   ├── SignOutButton.tsx       # Sign out component
-│   └── index.css               # Global styles
-├── .env.local                   # Environment variables
-└── package.json                # Dependencies
-```
-
 ##  Tech Stack
-
 ### Frontend
 - **React 19** - UI framework
 - **TypeScript** - Type safety
@@ -83,7 +68,7 @@ A modern web application that helps international students and immigrants analyz
 - **Google Gemini AI** - Document analysis
 - **Node.js** - Runtime for AI actions
 
-## 📊 Database Schema
+##  Database Schema
 
 ### Documents Table
 - User ID (reference)
@@ -172,4 +157,4 @@ This tool provides informational guidance only and is not legal advice. Always c
 
 ---
 
-Built with ❤️ by COLIN for international students and immigrants
+Built with ❤️ by COLIN for International Students and Immigrants
