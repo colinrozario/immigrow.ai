@@ -146,6 +146,20 @@ npx convex deploy
 
 This tool provides informational guidance only and is not legal advice. Always consult with qualified immigration attorneys for legal matters and official guidance.
 
+##  Contributing
+
+We welcome contributions to improve this project — thank you for considering helping out!
+
+How to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your work, e.g. `feature/your-feature` or `fix/your-bug`.
+3. Make your changes and run any linters or build steps locally.
+4. Commit with a clear message and push your branch to your fork.
+5. Open a pull request describing the change and why it's useful. For larger changes, please open an issue first to discuss the approach.
+
+If you find this project helpful, please share it with people or communities who might benefit — it would be greatly appreciated.
+
 ## 📚 Resources
 
 - [Convex Documentation](https://docs.convex.dev)
